@@ -1,4 +1,7 @@
-### To intsall all rhe required dependecies
+View the hosted Website here:
+https://ecommerce-zeta-drab.vercel.app/
+
+### To intstall all the required dependecies
 
 ```
 npm install
